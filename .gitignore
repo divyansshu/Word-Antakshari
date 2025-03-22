@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+
+# OS or IDE specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.bak
+
+# Compiled files
+dist/
+build/
+coverage/
+
+# Cache and temp files
+*.cache
+*.tmp
+
+# Dependencies
+package-lock.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
