@@ -1,6 +1,6 @@
 # Word Antakshari Game
 
-A fun and interactive web-based Word Antakshari game built using Node.js, Express.js, MongoDB, and Vanilla JavaScript. Players can submit words, earn scores, and track their streaks. It also features a leaderboard to display the top players.
+A fun and interactive web-based Word Antakshari game built using Node.js, Express.js, MongoDB, and JavaScript. Players can submit words, earn scores, and track their streaks. It also features a leaderboard to display the top players.
 
 ---
 
